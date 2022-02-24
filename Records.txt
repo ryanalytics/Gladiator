@@ -1,0 +1,8 @@
+Records:
+Most Fights: 19
+Least Fights: 12
+Most Fighter Wins: 20
+Most Fighter Losses: 22
+Highest Strength: 2399
+Biggest Upset: 0.189831
+Longest Streak: 9
